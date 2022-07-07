@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Otro mas
+* Nick Fury
